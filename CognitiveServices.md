@@ -1,4 +1,4 @@
-### Try Cognitive Services
+# Try Cognitive Services
 Cognitive Services let you build intelligent apps with powerful algorithms using just a few lines of code. 
 Try the Cognitive Services APIs for free in minutes.
 
