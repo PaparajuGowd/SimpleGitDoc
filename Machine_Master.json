@@ -1,1 +1,9 @@
-
+{
+"Name":"Microsoft Dynamics 365 for Customer Service",
+"Files":[{"RawFilePath":"https://raw.githubusercontent.com/MicrosoftLearning/20774_Perform-Cloud-Data-Science-with-Azure-Machine-Learning/master/Instructions/20774A_DEMOS_01.md",  
+"Order":1},
+{"RawFilePath":"https://raw.githubusercontent.com/MicrosoftLearning/20774_Perform-Cloud-Data-Science-with-Azure-Machine-Learning/master/Instructions/20774A_DEMOS_02.md",
+"Order":2},
+{"RawFilePath":"https://raw.githubusercontent.com/MicrosoftLearning/20774_Perform-Cloud-Data-Science-with-Azure-Machine-Learning/master/Instructions/20774A_DEMOS_03.md",
+"Order":3}
+]}
