@@ -5,5 +5,7 @@
 {"RawFilePath":"https://raw.githubusercontent.com/MicrosoftLearning/20774_Perform-Cloud-Data-Science-with-Azure-Machine-Learning/master/Instructions/20774A_DEMOS_02.md",
 "Order":2},
 {"RawFilePath":"https://raw.githubusercontent.com/MicrosoftLearning/20774_Perform-Cloud-Data-Science-with-Azure-Machine-Learning/master/Instructions/20774A_DEMOS_03.md",
-"Order":3}
+"Order":3},
+ {"RawFilePath":"https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/04-Create%20Blob%20storage.md",
+  Order":4},
 ]}
