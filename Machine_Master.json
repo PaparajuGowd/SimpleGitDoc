@@ -1,11 +1,32 @@
-{
-"Name":"Sign-up for Azure Machine Learning Service Workspace",
-"Files":[{"RawFilePath":"https://raw.githubusercontent.com/MicrosoftLearning/20774_Perform-Cloud-Data-Science-with-Azure-Machine-Learning/master/Instructions/20774A_DEMOS_01.md",  
-"Order":1},
-{"RawFilePath":"https://raw.githubusercontent.com/MicrosoftLearning/20774_Perform-Cloud-Data-Science-with-Azure-Machine-Learning/master/Instructions/20774A_DEMOS_02.md",
-"Order":2},
-{"RawFilePath":"https://raw.githubusercontent.com/MicrosoftLearning/20774_Perform-Cloud-Data-Science-with-Azure-Machine-Learning/master/Instructions/20774A_DEMOS_03.md",
-"Order":3},
- {"RawFilePath":"https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/04-Create%20Blob%20storage.md",
-  "Order":4},
-]}
+[
+  {
+    "Name": "MCW-Enterprise-ready-cloud",
+    "Language": "English",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-Enterprise-ready-cloud/master/Hands-on%20lab/lab-overview.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-Enterprise-ready-cloud/master/Hands-on%20lab/01.md",
+        "Order": 2
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-Enterprise-ready-cloud/master/Hands-on%20lab/02.md",
+        "Order": 3
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-Enterprise-ready-cloud/master/Hands-on%20lab/03.md",
+        "Order": 4
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-Enterprise-ready-cloud/master/Hands-on%20lab/04.md",
+        "Order": 5
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-Enterprise-ready-cloud/master/Hands-on%20lab/lab-completed.md",
+        "Order": 6
+      }        
+    ]
+  }
+]
